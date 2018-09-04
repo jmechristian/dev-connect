@@ -8,6 +8,7 @@ import { clearCurrentProfile } from "./actions/profileActions";
 import store from "./store";
 
 import PrivateRoute from "./components/common/PrivateRoute";
+
 import Navbar from "./components/layout/Navbar";
 import Footer from "./components/layout/Footer";
 import Landing from "./components/layout/Landing";

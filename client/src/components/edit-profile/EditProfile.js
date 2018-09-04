@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
 import { withRouter, Link } from "react-router-dom";
-import TextFieldGroup from "../Common/TextFieldGroup";
+import TextFieldGroup from "../../Common/TextFieldGroup";
 import InputGroup from "../Common/InputGroup";
 import SelectListGroup from "../Common/SelectListGroup";
 import TextAreaFieldGroup from "../Common/TextAreaFieldGroup";

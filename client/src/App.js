@@ -23,7 +23,7 @@ import NotFound from "./components/not-found/not-found";
 import Posts from "./components/posts/Posts";
 import Post from "./components/post/Post";
 
-import PrivateRoute from "./components/common/PrivateRoute";
+import PrivateRoute from "../components/common/PrivateRoute";
 
 import "./App.css";
 

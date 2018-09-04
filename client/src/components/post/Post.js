@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
 import { Link } from "react-router-dom";
-import Spinner from "../Common/Spinner";
+import Spinner from "../common/Spinner";
 import PostItem from "../posts/PostItem";
 import CommentForm from "./CommentForm";
 import CommentFeed from "./CommentFeed";

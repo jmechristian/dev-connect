@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
-import TextAreaFieldGroup from "../Common/TextAreaFieldGroup";
+import TextAreaFieldGroup from "../common/TextAreaFieldGroup";
 import { addPost } from "../../actions/postActions";
 
 class PostForm extends Component {

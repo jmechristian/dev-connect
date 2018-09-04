@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
 import { withRouter, Link } from "react-router-dom";
-import TextFieldGroup from "../../Common/TextFieldGroup";
-import InputGroup from "../Common/InputGroup";
-import SelectListGroup from "../Common/SelectListGroup";
-import TextAreaFieldGroup from "../Common/TextAreaFieldGroup";
+import TextFieldGroup from "../common/TextFieldGroup";
+import InputGroup from "../common/InputGroup";
+import SelectListGroup from "../common/SelectListGroup";
+import TextAreaFieldGroup from "../common/TextAreaFieldGroup";
 import { createProfile, getCurrentProfile } from "../../actions/profileActions";
 import isEmpty from "../../validation/is-empty";
 
